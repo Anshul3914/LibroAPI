@@ -62,10 +62,6 @@ This project has 4 Domain layer :
 - Usecase Layer
 - Delivery Layer
 
-#### The diagram:
-
-![golang clean architecture](https://github.com/Anshul3914/LibroAPI/raw/master/clean-arch.png)
-
 The original explanation about this project's structure can read from this medium's post : https://medium.com/@imantumorang/golang-clean-archithecture-efd6d7c43047.
 It may be different already, but the concept still the same in application level, also you can see the change log from v1 to current version in Master.
 
