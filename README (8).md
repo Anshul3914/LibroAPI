@@ -64,7 +64,7 @@ This project has 4 Domain layer :
 
 #### The diagram:
 
-![golang clean architecture](https://github.com/Anshul3914/libroapi/raw/master/clean-arch.png)
+![golang clean architecture](https://github.com/Anshul3914/LibroAPI/raw/master/clean-arch.png)
 
 The original explanation about this project's structure can read from this medium's post : https://medium.com/@imantumorang/golang-clean-archithecture-efd6d7c43047.
 It may be different already, but the concept still the same in application level, also you can see the change log from v1 to current version in Master.
@@ -90,7 +90,7 @@ Here is the steps to run it with `docker-compose`
 $ cd workspace
 
 # Clone into your workspace
-$ git clone https://github.com/Anshul3914/libroapi.git
+$ git clone https://github.com/Anshul3914/LibroAPI.git
 
 #move to project
 $ cd libroapi
@@ -111,7 +111,7 @@ $ curl localhost:9090/articles
 
 In this project, I use some tools listed below. But you can use any similar library that have the same purposes. But, well, different library will have different implementation type. Just be creative and use anything that you really need.
 
-- All libraries listed in [`go.mod`](https://github.com/Anshul3914/libroapi/blob/master/go.mod)
+- All libraries listed in [`go.mod`](https://github.com/Anshul3914/LibroAPI/blob/master/go.mod)
 - ["github.com/vektra/mockery".](https://github.com/vektra/mockery) To Generate Mocks for testing needs.
 
 ---
